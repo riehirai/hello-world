@@ -1,1 +1,2 @@
-Hello
+Hello, This is Rie.
+I am from Osaka;-)
